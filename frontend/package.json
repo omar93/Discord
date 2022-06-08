@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "frontend for the discord clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Omar Alhamad",
+  "license": "ISC"
+}

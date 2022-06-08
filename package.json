@@ -1,0 +1,19 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "A discord clone written in svelte/kit, express, mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omar93/Discord.git"
+  },
+  "author": "Omar Alhamad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omar93/Discord/issues"
+  },
+  "homepage": "https://github.com/omar93/Discord#readme"
+}
